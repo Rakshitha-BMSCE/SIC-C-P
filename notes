@@ -1,0 +1,10 @@
+Sorting techniques:
+Brute Force : Bubble sort, selection sort(Assignment - check and optimise efficiency)
+Decrease and conquer: Insertion sort(for small, somewhat sorted)
+Divide and conquer: Merge sort, insert sort
+Tree based Sorting: BBST sort, heap sort
+Combination of algorithms sorting: Bucket sort
+Non comparitve sorting: Radix sort 
+
+
+Bubble sort:
