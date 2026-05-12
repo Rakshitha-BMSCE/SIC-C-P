@@ -9,5 +9,8 @@ def binary_search(search_element, input_list):
             high = mid_index - 1
 
         else:
-            low = mid_index + 1     
+            low = mid_index + 1   
+
+            ''' program completed
+'''  
     

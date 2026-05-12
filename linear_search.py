@@ -23,3 +23,6 @@ if search_index == -1:
     print(f'The search element {search_element} was not found in the list')
 else:
     print(f'The search element {search_element} was  found at position {search_index} in the list')
+
+    ''' program completed
+'''

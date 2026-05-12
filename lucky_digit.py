@@ -10,3 +10,5 @@ while input_number != 0:
         sum_of_digit = 0
 
 print('Your lucky digit is',sum_of_digit)
+''' program completed
+'''
